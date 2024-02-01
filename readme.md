@@ -6,7 +6,7 @@ Le programme affichera une interface graphique sous forme d'un tableau de 8 par 
 
 Voir exemple de tableau :
 
-(Tableau de pairing )[./pairing_complet.png]
+![Tableau de pairing](./pairing_complet.png)
 
 Vous pourrez y entrer les estimations des joueurs par joueur.
 
