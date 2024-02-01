@@ -55,7 +55,7 @@ L'objectif est d'obtenir le meilleur score global en additionnant les scores de 
 
 Dans l'exemple suivant :
 
-(Tableau de pairing )[./pairing_avec_roles.png]
+![Tableau de pairing](./pairing_avec_roles.png)
 
 
 ## Technologies utilisées
