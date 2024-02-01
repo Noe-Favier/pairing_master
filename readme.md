@@ -6,7 +6,7 @@ Le programme affichera une interface graphique sous forme d'un tableau de 8 par 
 
 Voir exemple de tableau :
 
-(Tableau de pairing )[./pairing_complet.png]
+![Tableau de pairing](./pairing_complet.png)
 
 Vous pourrez y entrer les estimations des joueurs par joueur.
 
@@ -55,7 +55,7 @@ L'objectif est d'obtenir le meilleur score global en additionnant les scores de 
 
 Dans l'exemple suivant :
 
-(Tableau de pairing )[./pairing_avec_roles.png]
+![Tableau de pairing](./pairing_avec_roles.png)
 
 
 ## Technologies utilisées
