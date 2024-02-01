@@ -63,12 +63,12 @@ L'équipe 1 (Les Gros Débills) auront donc
 
 Agabdir en tant que Oublié et il fera un match contre Sven qui sera l'Oublié de l'équipe 2 dans lequel le score sera de 10 a 10  
 Bhaal en tant que Défenseur1 et il fera un match contre flob qui sera l'Attaquant1 de l'équipe 2 dans lequel le score sera de 8 a 12  
-CaptainHub en tant que Attaquant3 et il fera un match contre Astenarion qui sera le Défenseur3 de l'équipe 2 dans lequel le score sera de 10 a 10  
+CaptainHub en tant qu'Attaquant3 et il fera un match contre Astenarion qui sera Défenseur3 de l'équipe 2 dans lequel le score sera de 10 a 10  
 Kantus en tant que Rejeté et il fera un match contre Casiimir qui sera le Rejeté de l'équipe 2 dans lequel le score sera de 13 a 7  
 Shalys en tant que Défenseur3 et il fera un match contre I-gor qui sera l'Attaquant3 de l'équipe 2 dans lequel le score sera de 12 a 8  
 CxxlKid en tant que Attaquant1 et il fera un match contre Zig qui sera le Defenseur1 de l'équipe 2 dans lequel le score sera de 10 a 10  
 Wix en tant que Défenseur2 et il fera un match contre Hu-Goh qui sera l'Attaquant2 de l'équipe 2 dans lequel le score sera de 11 a 9  
-Zorglub en tant que Attaquant2 et il fera un match contre LeChevreuil qui sera le Défenseur2 de l'équipe 2 dans lequel le score sera de 10 a 10  
+Zorglub en tant qu'Attaquant2 et il fera un match contre LeChevreuil qui sera Défenseur2 de l'équipe 2 dans lequel le score sera de 10 a 10  
 
 On aura alors 10+8+10+13+12+10+11+10 = 84 de score pour l'équipe 1  
 
