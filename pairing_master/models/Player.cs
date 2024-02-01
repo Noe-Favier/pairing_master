@@ -8,4 +8,6 @@ public class Player
     String name { get; set; }
     
     Roles role { get; set; }
+    
+    public Dictionary<Player, int> scores { get; set; }
 }
