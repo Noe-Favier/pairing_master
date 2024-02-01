@@ -2,7 +2,13 @@
 
 Ce projet vise à être utilisé pour générer les meilleurs pairings possibles dans le cadre de match en équipe de Warhammer (8 contre 8) afin de réduire les possibilités de 8!^2 à seulement une dizaine d'arbres de probabilités maximum.
 
-Le programme affichera une interface graphique sous forme d'un tableau de 8 par 8 (avec une ligne supplémentaire pour indiquer les joueurs et leurs factions). Vous pourrez y entrer les estimations des joueurs par joueur.
+Le programme affichera une interface graphique sous forme d'un tableau de 8 par 8 (avec une ligne supplémentaire pour indiquer les joueurs et leurs factions).
+
+Voir exemple de tableau :
+
+(Tableau de pairing )[./pairing_complet.png]
+
+Vous pourrez y entrer les estimations des joueurs par joueur.
 
 L'utilisateur pourra remplir ce tableau manuellement ou charger des configurations existantes. Ensuite, le programme générera une liste des 10 meilleures possibilités de pairings pour aider l'utilisateur dans son choix.
 
@@ -46,6 +52,11 @@ L'objectif est d'obtenir le meilleur score global en additionnant les scores de 
 - Si le score de l'équipe 1 est < 75, c'est une défaite.
 - Si le score de l'équipe 1 est < 85 mais > 75, c'est une égalité.
 - Si le score de l'équipe 1 est > 85, c'est une victoire (l'objectif visé).
+
+Dans l'exemple suivant :
+
+(Tableau de pairing )[./pairing_avec_roles.png]
+
 
 ## Technologies utilisées
 
