@@ -20,4 +20,34 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
     }
+    
+    private void MainWindow_Loaded(object sender, RoutedEventArgs e)
+    {
+        // Générer dynamiquement la grille de TextBox
+        for (int row = 0; row < 8; row++)
+        {
+            myGrid.RowDefinitions.Add(new RowDefinition());
+
+            for (int col = 0; col < 8; col++)
+            {
+                if (row == 0)
+                    myGrid.ColumnDefinitions.Add(new ColumnDefinition());
+
+                TextBox textBox = new TextBox
+                {
+                    Text = "0",
+                    Width = 30,
+                    Height = 20,
+                    Margin = new Thickness(0),
+                    VerticalAlignment = VerticalAlignment.Center,
+                    HorizontalAlignment = HorizontalAlignment.Center
+                };
+
+                Grid.SetRow(textBox, row);
+                Grid.SetColumn(textBox, col);
+
+                myGrid.Children.Add(textBox);
+            }
+        }
+    }
 }

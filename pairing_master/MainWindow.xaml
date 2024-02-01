@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:pairing_master"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+        Title="MainWindow" Height="450" Width="800" Loaded="MainWindow_Loaded">
+    <Grid Name="myGrid">
+        <!-- La grille sera générée dynamiquement -->
     </Grid>
 </Window>
